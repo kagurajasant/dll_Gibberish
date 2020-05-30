@@ -1,0 +1,4 @@
+Wex.Communication
+ucrtbased
+Microsoft.Diagnostics.AppAnalysis
+Interop.UIAutomationClient

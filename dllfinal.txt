@@ -1096,7 +1096,8 @@ KBDOLDIT.DLL
 KBDOSA.DLL
 KBDOSM.DLL
 KBDPASH.DLL
-kbdphags.dll
+kbdphags.dll
+
 KBDPL.DLL
 KBDPL1.DLL
 KBDPO.DLL
@@ -1446,7 +1447,8 @@ mscandui.dll
 mscat32.dll
 msclmd.dll
 mscms.dll
-mscomct2.ocx
+mscomct2.ocx
+
 mscomctl.ocx
 mscomm32.ocx
 mscoree.dll
@@ -2195,7 +2197,8 @@ ssdm.dll
 ssdpapi.dll
 sspicli.dll
 SSShim.dll
-Startupscan.dll
+Startupscan.dll
+
 StateRepository.Core.dll
 stclient.dll
 stdole2.tlb
@@ -2317,7 +2320,8 @@ TSpkg.dll
 TSTheme.exe
 TSWorkspace.dll
 TsWpfWrp.exe
-ttdinject.exe
+ttdinject.exe
+
 ttdloader.dll
 ttdloaderwow64.dll
 ttdplm.dll
@@ -2615,7 +2619,8 @@ Windows.Internal.ShellCommon.PrintExperience.dll
 windows.internal.shellcommon.TokenBrokerModal.dll
 Windows.Internal.UI.Logon.ProxyStub.dll
 Windows.Management.Workplace.dll
-Windows.Management.Workplace.WorkplaceSettings.dll
+Windows.Management.Workplace.WorkplaceSettings.dll
+
 Windows.Media.Audio.dll
 Windows.Media.BackgroundMediaPlayback.dll
 Windows.Media.BackgroundPlayback.exe
@@ -3132,7 +3137,8 @@ AzureSettingSyncProvider.dll
 BackgroundMediaPolicy.dll
 backgroundTaskHost.exe
 BackgroundTransferHost.exe
-BamSettingsClient.dll
+BamSettingsClient.dll
+
 BarcodeProvisioningPlugin.dll
 basecsp.dll
 basesrv.dll
@@ -5025,7 +5031,8 @@ microsoft-windows-system-events.dll
 Microsoft-WindowsPhone-SEManagementProvider.dll
 Microsoft.Bluetooth.Proxy.dll
 Microsoft.Bluetooth.Service.dll
-Microsoft.Bluetooth.UserService.dll
+Microsoft.Bluetooth.UserService.dll
+
 Microsoft.Graphics.Display.DisplayEnhancementService.dll
 Microsoft.Management.Infrastructure.Native.Unmanaged.dll
 microsoft.windows.softwarelogo.showdesktop.exe
@@ -5351,7 +5358,8 @@ netiougc.exe
 netjoin.dll
 netlogon.dll
 netman.dll
-netmsg.dll
+netmsg.dll
+
 netplwiz.dll
 Netplwiz.exe
 netprofm.dll
@@ -7763,7 +7771,8 @@ AcroPDFImpl64.dll
 AdobeGCUpdater.dll
 
 adobe_caps.dll
-
+
+
 chrome_elf.dll
 
 d3dcompiler_47.dll
@@ -10114,7 +10123,8 @@ PPSLAX.DLL
 
 react-native-sdk.dll
 
-react-native-win32.dll
+react-native-win32.dll
+
 
 REFEDIT.DLL
 
@@ -10452,7 +10462,8 @@ SOLVER32.DLL
 
 ipcsecproc.dll
 
-msipc.dll
+msipc.dll
+
 
 
 
@@ -10615,7 +10626,8 @@ api-ms-win-core-file-l2-1-0.dll
 api-ms-win-core-localization-l1-2-0.dll
 
 api-ms-win-core-processthreads-l1-1-1.dll
-
+
+
 api-ms-win-core-synch-l1-2-0.dll
 
 api-ms-win-core-timezone-l1-1-0.dll
@@ -11071,7 +11083,8 @@ Microsoft.Excel.SPClient.Interfaces.dll
 Microsoft.Excel.Tabular.dll
 
 Microsoft.Office.Excel.DataModel.dll
-
+
+
 Microsoft.SqlServer.Configuration.SString.dll
 
 msmdlocal_xl.dll
@@ -12167,7 +12180,8 @@ Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
 Microsoft.VisualStudio.InteractiveWindow.resources.dll
 
 Microsoft.VisualStudio.VsInteractiveWindow.resources.dll
-
+
+
 
 
 
@@ -12518,7 +12532,8 @@ Microsoft.Build.NuGetSdkResolver.resources.dll
 
 Microsoft.Web.XmlTransform.resources.dll
 
-NuGet.Build.Tasks.resources.dll
+NuGet.Build.Tasks.resources.dll
+
 
 NuGet.Commands.resources.dll
 
@@ -13812,7 +13827,8 @@ Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll
 
 
 
-
+
+
 
 Microsoft.ServiceHub.Client.dll
 
@@ -14172,7 +14188,8 @@ TfsProviderStubUI.dll
 
 TfsProviderUI.dll
 
-
+
+
 
 
 
@@ -14531,7 +14548,8 @@ Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.resources.dll
 Microsoft.TeamFoundation.WorkItemTracking.Proxy.resources.dll
 
 Microsoft.VisualStudio.ContextManagement.Package.resources.dll
-
+
+
 Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
 
 Microsoft.VisualStudio.Services.Common.resources.dll
@@ -15232,7 +15250,8 @@ Microsoft.VisualStudio.ContextManagement.Package.resources.dll
 
 Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
 
-Microsoft.VisualStudio.Services.Common.resources.dll
+Microsoft.VisualStudio.Services.Common.resources.dll
+
 
 Microsoft.VisualStudio.Services.Integration.resources.dll
 
@@ -15516,7 +15535,8 @@ Microsoft.VisualStudio.Services.WebApi.resources.dll
 
 Microsoft.VisualStudio.TeamFoundation.Build.resources.dll
 
-Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+
 
 Microsoft.VisualStudio.TeamFoundation.Lab.resources.dll
 
@@ -16355,7 +16375,8 @@ Microsoft.VisualStudio.TestWindow.VSTest.resources.dll
 
 
 Microsoft.VisualStudio.TestPlatform.Extensions.dll
-
+
+
 Microsoft.VisualStudio.TestPlatform.Extensions.GenericTestAdapter.dll
 
 Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll
@@ -16510,7 +16531,8 @@ Microsoft.VisualStudio.TestWindow.VSTest.resources.dll
 
 
 
-
+
+
 
 
 
@@ -19028,7 +19050,8 @@ api-ms-win-core-file-l1-2-0.dll
 
 api-ms-win-core-file-l2-1-0.dll
 
-api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+
 
 api-ms-win-core-heap-l1-1-0.dll
 
@@ -19612,7 +19635,8 @@ autoexp.dll
 
 
 
-
+
+
 
 
 
@@ -20982,7 +21006,8 @@ System.Security.Cryptography.Encoding.dll
 
 System.Security.Cryptography.Primitives.dll
 
-System.Security.Cryptography.X509Certificates.dll
+System.Security.Cryptography.X509Certificates.dll
+
 
 System.Text.Encoding.CodePages.dll
 
@@ -21432,7 +21457,8 @@ vcruntime140.dll
 
 
 
-vcamp140.dll
+vcamp140.dll
+
 
 
 
@@ -23907,7 +23933,8 @@ windowsprintersupport.dll
 qtexttospeech_sapi.dll
 
 
-
+
+
 
 
 
@@ -25746,7 +25773,8 @@ api-ms-win-core-file-l2-1-0.dll
 
 api-ms-win-core-handle-l1-1-0.dll
 
-api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+
 
 api-ms-win-core-interlocked-l1-1-0.dll
 
@@ -28210,7 +28238,7 @@ ucrtbased.dll
 
 
 
-Interop.UIAutomationClient.dll
+
 
 IQueryString.dll
 
@@ -28314,7 +28342,6 @@ verificationroutinesweb.dll
 
 
 
-Microsoft.Diagnostics.AppAnalysis.dll
 
 
 
@@ -28322,7 +28349,8 @@ Microsoft.Diagnostics.AppAnalysis.dll
 
 
 
-ucrtbased.dll
+
+
 
 
 
@@ -29076,7 +29104,7 @@ TE.WinRT.dll
 
 Wex.Common.dll
 
-Wex.Communication.dll
+
 
 Wex.Logger.dll
 
